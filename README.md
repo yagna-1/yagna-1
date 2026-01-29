@@ -48,9 +48,11 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Highlights (real numbers)
 
-- Built a **hybrid RAG pipeline** (semantic + BM25) with **ChromaDB/FAISS**, improving retrieval accuracy by **~25%**
-- Improved response fidelity via **prompt engineering**, reducing hallucinations by **~20%**
-- Ran a **distributed 1000+ task parallel inference pipeline** (AWS)
+- Contributed to the **OpenAI SWE‑Lancer benchmark** (arXiv `2502.12115`) evaluating LLMs on **1,400+ real-world engineering tasks** (Expensify OSS)
+- Built a **distributed inference pipeline** to run **1000+ tasks in parallel** on AWS
+- Architected a **hybrid RAG pipeline** (semantic + BM25) with **ChromaDB/FAISS**, improving retrieval accuracy by **~25%**
+- Improved response fidelity via **prompt engineering** (few-shot + tuning), reducing hallucinations by **~20%**
+- Built an **MLOps evaluation pipeline** (Docker + `pytest`) to automate validation and speed up iteration
 
 ---
 
@@ -85,17 +87,32 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Experience
 
-- **Turing** — Python Developer (AI/ML Specialist) (Mar 2024 – Present)  
-  Contributed to the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`) and built scalable evaluation + inference tooling.
+### Turing — Python Developer (AI/ML Specialist) (Mar 2024 – Present)
 
-- **Genpact** — Data Engineering Intern (Jul 2023 – Dec 2023)  
-  Built RAG prototypes and a web scraping platform (React + Flask + PostgreSQL + LLMs).
+- Worked on the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`)
+- Collaborated with data science + product to align model iteration with user outcomes
+- Built a hybrid RAG system on AWS (EC2/S3) combining **semantic search + BM25**
+- Reduced hallucinations via **few-shot prompting + tuning**, plus evaluation-driven iteration
+- Automated validation using Docker + `pytest` to support faster, safer releases
 
-## Selected work (not all public yet)
+### Genpact — Data Engineering Intern (Jul 2023 – Dec 2023)
 
-- **Telugu OCR Fine-tuning (Sep 2025)**: LoRA + 4-bit quantization, achieved **~10% CER** (down from ~15%)  
-- **NotebookLM — Multi-Agent RAG (Mar 2025)**: CrewAI orchestration + Milvus; multi-modal ingestion (PDF/audio/web)  
-- **Self-hosted Code Analysis Tool (Dec 2024)**: local LLM + RAG with code embeddings; hybrid retrieval (BM25 + embeddings)  
+- Implemented a **RAG system on Microsoft Azure** for grounded responses
+- Built a web scraping platform using **React + Flask + PostgreSQL + LLMs/LangChain**
+- Integrated an AI chatbot to improve retrieval efficiency and UX
+
+---
+
+## Selected projects (from my resume)
+
+- **Telugu OCR Fine-tuning (Sep 2025)**  
+  Fine-tuned **DeepSeek‑OCR VLM** on a Telugu dataset using **LoRA (rank‑32)** + **4‑bit quantization**, achieving **~10% CER** (≈30% improvement from baseline).
+
+- **NotebookLM — Multi‑Agent RAG System (Mar 2025)**  
+  Built a CrewAI “agent crew” for multi‑modal ingestion (**PDF / audio / web**), backed by **Milvus** + **FastEmbed**, and generated an AI podcast using **Kokoro‑82M TTS**.
+
+- **Self‑Hosted Code Analysis Tool (Dec 2024)**  
+  Local **LLaMA‑3B** inference with **4‑bit quantization** + RAG (ChromaDB) and **hybrid retrieval (BM25 + embeddings)** with contextual web search integration.
 
 ---
 
@@ -109,6 +126,24 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 **Vector / data**: Milvus, ChromaDB, FAISS, PostgreSQL  
 **Cloud/MLOps**: AWS (EC2/S3/Lambda), Docker, Kubernetes  
 **Web**: React, TypeScript, Node.js, FastAPI  
+
+---
+
+## Skills (quick view)
+
+- **AI/ML & NLP**: PyTorch, TensorFlow, HuggingFace Transformers, LangChain, CrewAI, OpenAI API  
+- **Techniques**: RAG, LLM fine-tuning, prompt engineering, semantic search  
+- **Data / VectorDBs**: pandas, numpy, Milvus, ChromaDB, FAISS, PostgreSQL, MySQL  
+- **Cloud / DevOps / MLOps**: AWS, Docker, Kubernetes, Git, FastAPI  
+- **Supporting frameworks**: React, Django, Node.js, TypeScript  
+
+---
+
+## Education & achievements
+
+- **B.Tech (ECE)** — NIT Jaipur (2020 – 2024)
+- **JEE Mains**: **99.2 percentile**
+- **LeetCode**: ranked **< 1400** in weekly contests, **300+** problems solved
 
 ---
 
