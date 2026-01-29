@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  <a href="https://portfolio-yagna-1s-projects.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
+  <a href="https://yagna-1.vercell.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-00f0ff?style=for-the-badge&logo=vercel&logoColor=000000" /></a>
   <a href="mailto:yagnasivasaikumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-00ff41?style=for-the-badge&logo=gmail&logoColor=000000" /></a>
   <a href="https://linkedin.com/in/yagna-siva-sai-kumar-984881201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
   <a href="https://arxiv.org/abs/2502.12115"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.12115-b31b1b?style=for-the-badge&logo=arxiv&logoColor=ffffff" /></a>
@@ -166,7 +166,7 @@ AI/ML Engineer with hands-on experience building **end-to-end ML systems**—fro
 
 ## Let’s connect
 
-- **Portfolio**: `https://portfolio-yagna-1s-projects.vercel.app`
+- **Portfolio**: `https://yagna-1.vercell.app`
 - **Email**: `yagnasivasaikumar@gmail.com`
 - **LinkedIn**: `https://linkedin.com/in/yagna-siva-sai-kumar-984881201/`
 
