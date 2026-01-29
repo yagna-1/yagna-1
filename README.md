@@ -49,7 +49,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ---
 
-## Highlights (real numbers)
+## Highlights
 
 - Contributed to the **OpenAI SWE‑Lancer benchmark** (arXiv `2502.12115`) evaluating LLMs on **1,400+ real-world engineering tasks** (Expensify OSS)
 - Built a **distributed inference pipeline** to run **1000+ tasks in parallel** on AWS
@@ -61,7 +61,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Featured projects
 
-> A few repos I’m actively working on / proud of. (I keep the portfolio as a link only.)
+> A few repos I’m actively working on / proud of.
 
 <div align="center">
 
@@ -107,7 +107,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ---
 
-## Selected projects (from my resume)
+## Selected projects
 
 - **Telugu OCR Fine-tuning (Sep 2025)**  
   Fine-tuned **DeepSeek‑OCR VLM** on a Telugu dataset using **LoRA (rank‑32)** + **4‑bit quantization**, achieving **~10% CER** (≈30% improvement from baseline).
@@ -133,7 +133,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ---
 
-## Skills (quick view)
+## Skills
 
 - **AI/ML & NLP**: PyTorch, TensorFlow, HuggingFace Transformers, LangChain, CrewAI, OpenAI API  
 - **Techniques**: RAG, LLM fine-tuning, prompt engineering, semantic search  
@@ -151,7 +151,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ---
 
-## What I care about (engineering principles)
+## Principles
 
 - **Measure, don’t guess**: retrieval metrics, eval harnesses, regression tests  
 - **Simple + scalable**: clear interfaces, debuggable pipelines, good defaults  
