@@ -4,10 +4,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00ff41,100:00f0ff&section=header&text=Yagna%20Siva%20Sai%20Kumar&fontSize=42&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MLOps&descAlignY=60&fontColor=0b0f0f" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00ff41,100:00f0ff&section=header&text=Yagna%20Siva%20Sai%20Kumar&fontSize=42&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20LLM%20Evaluation%20%E2%80%A2%20RAG%20%E2%80%A2%20MLOps&descAlignY=60&fontColor=0b0f0f" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%E2%80%A2+LLM+Systems+%E2%80%A2+Evaluation+%E2%80%A2+MLOps;Benchmarks+%26+distributed+inference+pipelines+%28AWS%29;Prompt+engineering+%E2%80%A2+fine-tuning+%E2%80%A2+agentic+workflows;Hybrid+retrieval+%28Semantic+%2B+BM25%29+when+RAG+is+the+right+tool;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%E2%80%A2+End-to-end+ML+systems+%E2%80%A2+LLM+evaluation;Benchmarks+%26+distributed+inference+pipelines+%28AWS%29;RAG+%28semantic+%2B+BM25%29+%E2%80%A2+failure-case+analysis+%E2%80%A2+latency+metrics;On-device+agent+fine-tuning+%E2%80%A2+quantization+%E2%80%A2+agentic+workflows" alt="Typing SVG" />
 </p>
 
 <p>
@@ -19,6 +19,8 @@
 
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00ff41" />
+  <img alt="Go" src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=00ADD8" />
+  <img alt="Ruby" src="https://img.shields.io/badge/Ruby-111111?style=flat-square&logo=ruby&logoColor=CC342D" />
   <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=openai&logoColor=00f0ff" />
   <img alt="LLM Evaluation" src="https://img.shields.io/badge/LLM_Eval-111111?style=flat-square&logo=githubactions&logoColor=ffffff" />
   <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square&logo=fastapi&logoColor=00f0ff" />
@@ -33,7 +35,7 @@
 
 ## About
 
-I’m an **AI/ML engineer** focused on building **production-grade RAG** and **agentic systems**—with strong emphasis on **retrieval quality**, **evaluation**, and **scalable inference**.
+AI/ML Engineer with hands-on experience building **end-to-end ML systems**—from data preprocessing and feature engineering to training, evaluation, and cloud deployment. Strong background in **LLM evaluation**, **RAG pipelines**, classical ML experimentation, and **scalable inference on AWS**.
 
 - **Current focus**: hybrid retrieval (semantic + BM25), tool-using agents, eval harnesses, cost/latency optimization  
 - **Location**: Vijayawada, India (remote-friendly)  
@@ -45,7 +47,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 - **Benchmarks & evaluation**: datasets, scoring, regression tests, quality dashboards
 - **RAG systems**: hybrid retrieval, citations, traceability, eval-driven iteration
 - **Agentic workflows**: tool use, orchestration, reliability + monitoring
-- **Inference pipelines**: distributed runs, batching, caching, and throughput optimization
+- **Inference pipelines**: distributed runs, batching, caching, and throughput optimization (AWS)
 
 ---
 
@@ -54,8 +56,9 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 - Contributed to the **OpenAI SWE‑Lancer benchmark** (arXiv `2502.12115`) evaluating LLMs on **1,400+ real-world engineering tasks** (Expensify OSS)
 - Built a **distributed inference pipeline** to run **1000+ tasks in parallel** on AWS
 - Architected a **hybrid RAG pipeline** (semantic + BM25) with **ChromaDB/FAISS**, improving retrieval accuracy by **~25%**
+- Designed evaluation experiments using **precision/recall, latency, and failure-case analysis** to compare retrieval approaches and guide iteration
 - Improved response fidelity via **prompt engineering** (few-shot + tuning), reducing hallucinations by **~20%**
-- Built an **MLOps evaluation pipeline** (Docker + `pytest`) to automate validation and speed up iteration
+- Built reusable **data preprocessing + validation pipelines** to keep training/evaluation consistent across model versions
 
 ---
 
@@ -90,18 +93,18 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Experience
 
-### Turing — Python Developer (AI/ML Specialist) (Mar 2024 – Present)
+### Turing — Python AI/ML Developer (Mar 2024 – Present)
 
-- Contributed to the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`) on **1,400+** real-world engineering tasks
-- Built a **distributed 1000+ task parallel inference pipeline** to accelerate evaluation and iteration (AWS)
-- Designed prompt strategies (**few-shot + tuning**) to improve response fidelity and reduce hallucinations (**~20%**)
-- Automated validation with an **MLOps evaluation pipeline** (**Docker + `pytest`**) for repeatable, regression-safe releases
-- Architected a hybrid retrieval system (**semantic + BM25**) with **ChromaDB/FAISS**, improving retrieval accuracy (**~25%**) where RAG was needed
-- Worked closely with data scientists + PMs to convert product goals into measurable evals and quality improvements
+- Engineered the evaluation pipeline for the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`), benchmarking LLMs on **1,400+** real-world engineering tasks
+- Collaborated with data scientists + PMs to align model work with business goals, accelerating iteration via a **distributed 1000+ task parallel inference pipeline**
+- Architected a hybrid RAG pipeline on AWS (EC2/S3) integrating **semantic search + BM25** with **ChromaDB/FAISS**, improving retrieval accuracy by **~25%**
+- Designed evaluation experiments using **precision/recall, latency, and failure-case analysis** to compare baselines vs hybrid retrieval
+- Optimized prompt strategies to reduce hallucinations by **~20%**
+- Built reusable preprocessing + validation pipelines to support repeatable experimentation across model versions
 
 ### Genpact — Data Engineering Intern (Jul 2023 – Dec 2023)
 
-- Implemented a **RAG system on Microsoft Azure** for grounded responses
+- Performed dataset preparation, feature extraction, and evaluation for NLP/RAG models; validated improvements before production integration on **Microsoft Azure**
 - Built a web scraping platform using **React + Flask + PostgreSQL + LLMs/LangChain**
 - Integrated an AI chatbot to improve retrieval efficiency and UX
 
@@ -109,11 +112,15 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Selected projects
 
+- **FunctionGemma On‑Device Agent (Dec 2025)**  
+  Fine-tuned Google’s **FunctionGemma‑270M** to execute structured function calls locally on Android; optimized for edge deployment using quantization for high‑performance inference with minimal memory footprint.
+
 - **Telugu OCR Fine-tuning (Sep 2025)**  
   Fine-tuned **DeepSeek‑OCR VLM** on a Telugu dataset using **LoRA (rank‑32)** + **4‑bit quantization**, achieving **~10% CER** (≈30% improvement from baseline).
+  Leveraged **Unsloth** and QLoRA to speed up fine-tuning by **~2×** on a single GPU.
 
 - **NotebookLM — Multi‑Agent RAG System (Mar 2025)**  
-  Built a CrewAI “agent crew” for multi‑modal ingestion (**PDF / audio / web**), backed by **Milvus** + **FastEmbed**, and generated an AI podcast using **Kokoro‑82M TTS**.
+  Developed an autonomous “AI crew” (CrewAI) to process multi‑modal inputs (**PDF / audio / web**) and generate an AI podcast using **Kokoro‑82M TTS**.
 
 - **Self‑Hosted Code Analysis Tool (Dec 2024)**  
   Local **LLaMA‑3B** inference with **4‑bit quantization** + RAG (ChromaDB) and **hybrid retrieval (BM25 + embeddings)** with contextual web search integration.
@@ -123,31 +130,29 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 ## Tech stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws,docker,kubernetes,postgres,react,ts,nodejs,linux&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,go,ruby,pytorch,tensorflow,aws,docker,kubernetes,postgres,react,ts,nodejs,linux&perline=7" />
 </div>
 
-**AI/ML**: RAG, semantic search, prompt engineering, evaluation  
+**AI/ML**: RAG, semantic search, prompt engineering, evaluation, quantization  
 **Vector / data**: Milvus, ChromaDB, FAISS, PostgreSQL  
-**Cloud/MLOps**: AWS (EC2/S3/Lambda), Docker, Kubernetes  
+**Cloud/MLOps**: AWS, Docker, Kubernetes, CI/CD  
 **Web**: React, TypeScript, Node.js, FastAPI  
 
 ---
 
 ## Skills
 
-- **AI/ML & NLP**: PyTorch, TensorFlow, HuggingFace Transformers, LangChain, CrewAI, OpenAI API  
-- **Techniques**: RAG, LLM fine-tuning, prompt engineering, semantic search  
-- **Data / VectorDBs**: pandas, numpy, Milvus, ChromaDB, FAISS, PostgreSQL, MySQL  
-- **Cloud / DevOps / MLOps**: AWS, Docker, Kubernetes, Git, FastAPI  
-- **Supporting frameworks**: React, Django, Node.js, TypeScript  
+- **Languages**: Python, Go, Ruby, SQL, TypeScript, JavaScript  
+- **AI/ML frameworks**: PyTorch, TensorFlow, Hugging Face, LangChain, CrewAI, Scikit‑learn  
+- **Techniques**: RAG, LLM fine-tuning (LoRA/QLoRA), quantization, agentic workflows, semantic search  
+- **Data / vector stores**: Milvus, ChromaDB, FAISS, PostgreSQL, MySQL, pandas, NumPy  
+- **Cloud / MLOps**: AWS, Docker, Kubernetes, Git, FastAPI, CI/CD  
 
 ---
 
-## Education & achievements
+## Education
 
 - **B.Tech (ECE)** — NIT Jaipur (2020 – 2024)
-- **JEE Mains**: **99.2 percentile**
-- **LeetCode**: ranked **< 1400** in weekly contests, **300+** problems solved
 
 ---
 
