@@ -17,6 +17,14 @@
   <a href="https://arxiv.org/abs/2502.12115"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2502.12115-b31b1b?style=for-the-badge&logo=arxiv&logoColor=ffffff" /></a>
 </p>
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00ff41" />
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=openai&logoColor=00f0ff" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=ff9900" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
+</p>
+
 </div>
 
 ---
@@ -25,8 +33,16 @@
 
 I’m an **AI/ML engineer** focused on building **production-grade RAG** and **agentic systems**—with strong emphasis on **retrieval quality**, **evaluation**, and **scalable inference**.
 
-- **Current focus**: RAG (hybrid retrieval), tool-using agents, evaluation harnesses, and cost/latency optimization  
+- **Current focus**: hybrid retrieval (semantic + BM25), tool-using agents, eval harnesses, cost/latency optimization  
 - **Location**: Vijayawada, India (remote-friendly)  
+
+---
+
+## What I build
+
+- **RAG systems**: hybrid retrieval, citations, traceability, eval-driven iteration
+- **Agentic workflows**: tool use, orchestration, reliability + monitoring
+- **Inference pipelines**: distributed runs, batching, caching, and throughput optimization
 
 ---
 
@@ -40,7 +56,24 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## Featured projects
 
-> A few repos I’m actively working on / proud of.
+> A few repos I’m actively working on / proud of. (I keep the portfolio as a link only.)
+
+<div align="center">
+
+<a href="https://github.com/yagna-1/Vectorless-RAG">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=Vectorless-RAG&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/yagna-1/AgentScopeLocal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=AgentScopeLocal&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/yagna-1/Memory-KV-Cache">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=Memory-KV-Cache&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+### Quick links
 
 | Project | What it is | Stack | Links |
 |---|---|---|---|
@@ -49,6 +82,14 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 | **Memory-KV-Cache** | Memory-aware LLM manager for macOS with **KV-cache inspection** tools | Rust | Repo: `https://github.com/yagna-1/Memory-KV-Cache` |
 
 ---
+
+## Experience
+
+- **Turing** — Python Developer (AI/ML Specialist) (Mar 2024 – Present)  
+  Contributed to the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`) and built scalable evaluation + inference tooling.
+
+- **Genpact** — Data Engineering Intern (Jul 2023 – Dec 2023)  
+  Built RAG prototypes and a web scraping platform (React + Flask + PostgreSQL + LLMs).
 
 ## Selected work (not all public yet)
 
