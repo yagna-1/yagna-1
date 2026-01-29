@@ -66,14 +66,14 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 <div align="center">
 
 <a href="https://github.com/yagna-1/Vectorless-RAG">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=Vectorless-RAG&theme=tokyonight&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/yagna-1/Vectorless-RAG" alt="Vectorless-RAG" />
 </a>
 <a href="https://github.com/yagna-1/AgentScopeLocal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=AgentScopeLocal&theme=tokyonight&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/yagna-1/AgentScopeLocal" alt="AgentScopeLocal" />
 </a>
 
 <a href="https://github.com/yagna-1/Memory-KV-Cache">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yagna-1&repo=Memory-KV-Cache&theme=tokyonight&hide_border=true" />
+  <img src="https://opengraph.githubassets.com/1/yagna-1/Memory-KV-Cache" alt="Memory-KV-Cache" />
 </a>
 
 </div>
@@ -179,9 +179,11 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 <details>
 <summary><b>Optional: GitHub stats</b></summary>
 <br />
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yagna-1&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagna-1&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+<p align="center">
+  <img alt="Followers" src="https://img.shields.io/github/followers/yagna-1?style=for-the-badge&label=Followers&color=00ff41&labelColor=111111" />
+  <img alt="Vectorless-RAG stars" src="https://img.shields.io/github/stars/yagna-1/Vectorless-RAG?style=for-the-badge&label=Vectorless-RAG%20Stars&color=00f0ff&labelColor=111111" />
+  <img alt="AgentScopeLocal stars" src="https://img.shields.io/github/stars/yagna-1/AgentScopeLocal?style=for-the-badge&label=AgentScopeLocal%20Stars&color=00f0ff&labelColor=111111" />
+  <img alt="Memory-KV-Cache stars" src="https://img.shields.io/github/stars/yagna-1/Memory-KV-Cache?style=for-the-badge&label=Memory-KV-Cache%20Stars&color=00f0ff&labelColor=111111" />
+</p>
 </details>
 
