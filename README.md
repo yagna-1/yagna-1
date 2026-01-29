@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:00ff41,100:00f0ff&section=header&text=Yagna%20Siva%20Sai%20Kumar&fontSize=42&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20Systems%20%E2%80%A2%20MLOps&descAlignY=60&fontColor=0b0f0f" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=700&lines=Building+reliable+RAG+pipelines+and+agent+systems;Hybrid+retrieval+%28Semantic+%2B+BM25%29+%E2%80%A2+VectorDBs+%E2%80%A2+Evaluation;Distributed+inference+pipelines+on+AWS;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FF41&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%E2%80%A2+LLM+Systems+%E2%80%A2+Evaluation+%E2%80%A2+MLOps;Benchmarks+%26+distributed+inference+pipelines+%28AWS%29;Prompt+engineering+%E2%80%A2+fine-tuning+%E2%80%A2+agentic+workflows;Hybrid+retrieval+%28Semantic+%2B+BM25%29+when+RAG+is+the+right+tool;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p>
@@ -20,6 +20,8 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=00ff41" />
   <img alt="RAG" src="https://img.shields.io/badge/RAG-111111?style=flat-square&logo=openai&logoColor=00f0ff" />
+  <img alt="LLM Evaluation" src="https://img.shields.io/badge/LLM_Eval-111111?style=flat-square&logo=githubactions&logoColor=ffffff" />
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt_Engineering-111111?style=flat-square&logo=fastapi&logoColor=00f0ff" />
   <img alt="AWS" src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=ff9900" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-111111?style=flat-square&logo=postgresql&logoColor=4169E1" />
@@ -40,6 +42,7 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ## What I build
 
+- **Benchmarks & evaluation**: datasets, scoring, regression tests, quality dashboards
 - **RAG systems**: hybrid retrieval, citations, traceability, eval-driven iteration
 - **Agentic workflows**: tool use, orchestration, reliability + monitoring
 - **Inference pipelines**: distributed runs, batching, caching, and throughput optimization
@@ -89,11 +92,12 @@ I’m an **AI/ML engineer** focused on building **production-grade RAG** and **a
 
 ### Turing — Python Developer (AI/ML Specialist) (Mar 2024 – Present)
 
-- Worked on the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`)
-- Collaborated with data science + product to align model iteration with user outcomes
-- Built a hybrid RAG system on AWS (EC2/S3) combining **semantic search + BM25**
-- Reduced hallucinations via **few-shot prompting + tuning**, plus evaluation-driven iteration
-- Automated validation using Docker + `pytest` to support faster, safer releases
+- Contributed to the **OpenAI SWE‑Lancer benchmark** (`https://arxiv.org/abs/2502.12115`) on **1,400+** real-world engineering tasks
+- Built a **distributed 1000+ task parallel inference pipeline** to accelerate evaluation and iteration (AWS)
+- Designed prompt strategies (**few-shot + tuning**) to improve response fidelity and reduce hallucinations (**~20%**)
+- Automated validation with an **MLOps evaluation pipeline** (**Docker + `pytest`**) for repeatable, regression-safe releases
+- Architected a hybrid retrieval system (**semantic + BM25**) with **ChromaDB/FAISS**, improving retrieval accuracy (**~25%**) where RAG was needed
+- Worked closely with data scientists + PMs to convert product goals into measurable evals and quality improvements
 
 ### Genpact — Data Engineering Intern (Jul 2023 – Dec 2023)
 
