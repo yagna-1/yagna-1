@@ -27,9 +27,9 @@ I build and ship AI-first applications with product-grade execution: architectur
 
 | Project | Why it is exciting | Build Signal |
 | --- | --- | --- |
-| **[AegisEdge](https://github.com/yagna-1/AegisEdge)** *(Private)* | Android edge-AI agent with action safety, consent flow, memory, and local/remote inference control. | **Most recent private repo** (updated **February 22, 2026**) |
+| **[AegisEdge](https://github.com/yagna-1/AegisEdge)** *(Private)* | Android edge-AI agent with action safety, consent flow, memory, and local/remote inference control. | **Most recent private repo** |
 | **[astragraph](https://github.com/yagna-1/astragraph)** | Fail-closed policy enforcement + observability for MCP/A2A multi-agent systems. | 24 stars and active Rust platform direction |
-| **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | **Most recently pushed project** (**February 23, 2026**) |
+| **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | **Most recently pushed project** |
 
 ## System Vision (What I am building)
 
@@ -66,11 +66,11 @@ flowchart LR
 
 ## Most Recent Project Wave
 
-- **FluxRoute (Feb 2026):** deterministic orchestration runtime for production AI workflows.
-- **AegisEdge (Feb 2026, private):** edge Android AI agent with safety and execution controls.
-- **AstraGraph (Feb 2026):** policy-first observability and guardrails for multi-agent traffic.
-- **baremetal-infer (Feb 2026):** minimal native edge inference runtime.
-- **open-finetune-config-os / SchedIQ (Feb 2026):** model tuning config tooling and scheduling product work.
+- **FluxRoute:** deterministic orchestration runtime for production AI workflows.
+- **AegisEdge (private):** edge Android AI agent with safety and execution controls.
+- **AstraGraph:** policy-first observability and guardrails for multi-agent traffic.
+- **baremetal-infer:** minimal native edge inference runtime.
+- **open-finetune-config-os / SchedIQ:** model tuning config tooling and scheduling product work.
 
 ## Selected Repos (Original Work)
 
