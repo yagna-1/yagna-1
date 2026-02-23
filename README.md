@@ -15,6 +15,8 @@
   <img alt="AstraGraph stars" src="https://img.shields.io/github/stars/yagna-1/astragraph?style=flat-square&label=astragraph%20stars&color=0ea5e9" />
   <img alt="FluxRoute stars" src="https://img.shields.io/github/stars/yagna-1/fluxroute?style=flat-square&label=fluxroute%20stars&color=22c55e" />
   <img alt="Followers" src="https://img.shields.io/github/followers/yagna-1?style=flat-square&label=followers&color=1d4ed8" />
+  <a href="https://github.com/yagna-1/fluxroute/actions/workflows/ci.yml"><img alt="FluxRoute CI" src="https://github.com/yagna-1/fluxroute/actions/workflows/ci.yml/badge.svg" /></a>
+  <a href="https://github.com/yagna-1/astragraph/actions/workflows/ci.yaml"><img alt="AstraGraph CI" src="https://github.com/yagna-1/astragraph/actions/workflows/ci.yaml/badge.svg" /></a>
 </p>
 
 </div>
@@ -27,7 +29,13 @@
 | **[astragraph](https://github.com/yagna-1/astragraph)** | Fail-closed policy enforcement + observability for MCP/A2A multi-agent systems. | 24 stars and active Rust platform direction |
 | **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | **Most recently pushed project** |
 
-## System Vision (What I am building)
+## Proof of Impact
+
+- Contributed to the OpenAI SWE-Lancer benchmark, evaluating LLM performance on 1,400+ real engineering tasks.
+- Built distributed inference pipelines that can execute 1,000+ tasks in parallel on AWS.
+- Improved retrieval quality by ~25% using hybrid search (semantic + BM25) and evaluation-led iteration.
+
+## System Vision
 
 ```mermaid
 flowchart LR
@@ -60,6 +68,10 @@ flowchart LR
   <img alt="AegisEdge Private Build" src="https://img.shields.io/badge/AegisEdge-Private%20Android%20Edge%20AI%20Build-111827?style=for-the-badge&logo=android&logoColor=3DDC84" />
 </div>
 
+<div align="center">
+  <sub>Private build walkthrough available on request.</sub>
+</div>
+
 ## Most Recent Project Wave
 
 - **FluxRoute:** deterministic orchestration runtime for production AI workflows.
@@ -70,7 +82,15 @@ flowchart LR
 
 ## Selected Repos
 
-[AegisEdge](https://github.com/yagna-1/AegisEdge) (private) • [astragraph](https://github.com/yagna-1/astragraph) • [fluxroute](https://github.com/yagna-1/fluxroute) • [baremetal-infer](https://github.com/yagna-1/baremetal-infer) • [SchedIQ](https://github.com/yagna-1/SchedIQ) • [open-finetune-config-os](https://github.com/yagna-1/open-finetune-config-os) • [Memory-KV-Cache](https://github.com/yagna-1/Memory-KV-Cache) • [Vectorless-RAG](https://github.com/yagna-1/Vectorless-RAG) • [AgentScopeLocal](https://github.com/yagna-1/AgentScopeLocal) • [SouthBridge-ACP-Client](https://github.com/yagna-1/SouthBridge-ACP-Client) • [ace-devops-troubleshooter](https://github.com/yagna-1/ace-devops-troubleshooter) • [NextTokenApp](https://github.com/yagna-1/NextTokenApp) • [NextToken](https://github.com/yagna-1/NextToken) • [AIWatchLite](https://github.com/yagna-1/AIWatchLite) • [code-explainer](https://github.com/yagna-1/code-explainer) • [gentic-document-extractor](https://github.com/yagna-1/gentic-document-extractor) • [RAG-based-QA](https://github.com/yagna-1/RAG-based-QA) • [multi_source_qa](https://github.com/yagna-1/multi_source_qa)
+**Top 6:** [AegisEdge](https://github.com/yagna-1/AegisEdge) (private) • [astragraph](https://github.com/yagna-1/astragraph) • [fluxroute](https://github.com/yagna-1/fluxroute) • [baremetal-infer](https://github.com/yagna-1/baremetal-infer) • [SchedIQ](https://github.com/yagna-1/SchedIQ) • [open-finetune-config-os](https://github.com/yagna-1/open-finetune-config-os)
+
+<details>
+<summary><b>More repos</b></summary>
+<br />
+
+[Memory-KV-Cache](https://github.com/yagna-1/Memory-KV-Cache) • [Vectorless-RAG](https://github.com/yagna-1/Vectorless-RAG) • [AgentScopeLocal](https://github.com/yagna-1/AgentScopeLocal) • [SouthBridge-ACP-Client](https://github.com/yagna-1/SouthBridge-ACP-Client) • [ace-devops-troubleshooter](https://github.com/yagna-1/ace-devops-troubleshooter) • [NextTokenApp](https://github.com/yagna-1/NextTokenApp) • [NextToken](https://github.com/yagna-1/NextToken) • [AIWatchLite](https://github.com/yagna-1/AIWatchLite) • [code-explainer](https://github.com/yagna-1/code-explainer) • [gentic-document-extractor](https://github.com/yagna-1/gentic-document-extractor) • [RAG-based-QA](https://github.com/yagna-1/RAG-based-QA) • [multi_source_qa](https://github.com/yagna-1/multi_source_qa)
+
+</details>
 
 ## Build Stack
 
