@@ -19,10 +19,6 @@
 
 </div>
 
-## Startup Build Positioning
-
-I build and ship AI-first applications with product-grade execution: architecture, evaluation, reliability, and deployment.
-
 ## Featured Now
 
 | Project | Why it is exciting | Build Signal |
