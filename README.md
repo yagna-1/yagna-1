@@ -72,7 +72,7 @@ flowchart LR
 - **baremetal-infer (Feb 2026):** minimal native edge inference runtime.
 - **open-finetune-config-os / SchedIQ (Feb 2026):** model tuning config tooling and scheduling product work.
 
-## Good Repos Built by Me (Non-Fork, One Line)
+## Selected Repos (Original Work)
 
 [AegisEdge](https://github.com/yagna-1/AegisEdge) (private) • [astragraph](https://github.com/yagna-1/astragraph) • [fluxroute](https://github.com/yagna-1/fluxroute) • [baremetal-infer](https://github.com/yagna-1/baremetal-infer) • [SchedIQ](https://github.com/yagna-1/SchedIQ) • [open-finetune-config-os](https://github.com/yagna-1/open-finetune-config-os) • [Memory-KV-Cache](https://github.com/yagna-1/Memory-KV-Cache) • [Vectorless-RAG](https://github.com/yagna-1/Vectorless-RAG) • [AgentScopeLocal](https://github.com/yagna-1/AgentScopeLocal) • [SouthBridge-ACP-Client](https://github.com/yagna-1/SouthBridge-ACP-Client) • [ace-devops-troubleshooter](https://github.com/yagna-1/ace-devops-troubleshooter) • [NextTokenApp](https://github.com/yagna-1/NextTokenApp) • [NextToken](https://github.com/yagna-1/NextToken) • [AIWatchLite](https://github.com/yagna-1/AIWatchLite) • [code-explainer](https://github.com/yagna-1/code-explainer) • [gentic-document-extractor](https://github.com/yagna-1/gentic-document-extractor) • [RAG-based-QA](https://github.com/yagna-1/RAG-based-QA) • [multi_source_qa](https://github.com/yagna-1/multi_source_qa)
 
