@@ -35,7 +35,9 @@ I design and ship agent infrastructure that teams can run in production with con
 - audit-to-regression-test generation
 - MCP contract and policy validation for CI
 
-## AgentStack Platform (Combined Repo First)
+## AgentStack Platform
+
+The combined reference repository is listed first, followed by the five core platform layers.
 
 | Priority | Repository | Layer | What it contributes |
 | --- | --- | --- | --- |
