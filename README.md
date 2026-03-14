@@ -25,9 +25,13 @@
 
 | Project | Why it is exciting | Build Signal |
 | --- | --- | --- |
+| **[agentstack-reference](https://github.com/yagna-1/agentstack-reference)** | Glue-only reference stack that composes routing, orchestration, governance, and testing into one runnable loop. | **Combined platform entrypoint** |
+| **[nexusgate](https://github.com/yagna-1/nexusgate)** | MCP/LLM routing gateway with workflow-aware budget controls and provider fallback. | Routing + cost governance layer |
+| **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | Runtime execution layer |
 | **[AegisEdge](https://github.com/yagna-1/AegisEdge)** *(Private)* | Android edge-AI agent with action safety, consent flow, memory, and local/remote inference control. | **Most recent private repo** |
 | **[astragraph](https://github.com/yagna-1/astragraph)** | Fail-closed policy enforcement + observability for MCP/A2A multi-agent systems. | 24 stars and active Rust platform direction |
-| **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | **Most recently pushed project** |
+| **[recast](https://github.com/yagna-1/recast)** | Compiler that converts agent/browser traces into static Playwright tests. | Regression test generation layer |
+| **[mcp-test](https://github.com/yagna-1/mcp-test)** | Spec-oriented MCP test toolkit with policy assertion helpers for CI. | MCP contract validation layer |
 
 ## Proof of Impact
 
@@ -74,15 +78,16 @@ flowchart LR
 
 ## Most Recent Project Wave
 
+- **agentstack-reference:** combined glue repo that runs the full platform loop.
+- **NexusGate:** route and budget-control ingress for MCP/LLM traffic.
 - **FluxRoute:** deterministic orchestration runtime for production AI workflows.
-- **AegisEdge (private):** edge Android AI agent with safety and execution controls.
-- **AstraGraph:** policy-first observability and guardrails for multi-agent traffic.
-- **baremetal-infer:** minimal native edge inference runtime.
-- **open-finetune-config-os / SchedIQ:** model tuning config tooling and scheduling product work.
+- **AstraGraph:** fail-closed governance and causal audit for MCP/A2A traffic.
+- **Recast:** compile audit/agent traces into deterministic Playwright suites.
+- **mcp-test:** MCP protocol and policy behavior validation for CI gates.
 
 ## Selected Repos
 
-**Top 6:** [AegisEdge](https://github.com/yagna-1/AegisEdge) (private) • [astragraph](https://github.com/yagna-1/astragraph) • [fluxroute](https://github.com/yagna-1/fluxroute) • [baremetal-infer](https://github.com/yagna-1/baremetal-infer) • [SchedIQ](https://github.com/yagna-1/SchedIQ) • [open-finetune-config-os](https://github.com/yagna-1/open-finetune-config-os)
+**Top 6 (AgentStack):** [agentstack-reference](https://github.com/yagna-1/agentstack-reference) • [nexusgate](https://github.com/yagna-1/nexusgate) • [fluxroute](https://github.com/yagna-1/fluxroute) • [astragraph](https://github.com/yagna-1/astragraph) • [recast](https://github.com/yagna-1/recast) • [mcp-test](https://github.com/yagna-1/mcp-test)
 
 <details>
 <summary><b>More repos</b></summary>
