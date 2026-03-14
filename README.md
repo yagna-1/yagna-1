@@ -1,108 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:1D4ED8,70:0EA5E9,100:22C55E&text=Yagna%20Siva%20Sai%20Kumar&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=AI%2FML%20Engineer%20%E2%80%A2%20Startup%20App%20Builder%20%E2%80%A2%20Shipping%20Systems%20That%20Scale&descAlignY=58&descSize=16" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=900&color=22C55E&center=true&vCenter=true&width=1100&lines=Building+AI+products+from+idea+to+production;Designing+deterministic+agent+runtimes+with+guardrails;Shipping+edge+AI+apps+with+safety%2C+observability%2C+and+speed" alt="typing" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,35:1D4ED8,70:0EA5E9,100:22C55E&text=Yagna%20Siva%20Sai%20Kumar&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%E2%80%A2%20Agent%20Infrastructure%20Builder%20%E2%80%A2%20Production%20Systems&descAlignY=58&descSize=16" />
 
 <p>
-  <a href="https://yagna-1.vercell.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-0B1020?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:yagnasivasaikumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Direct%20Contact-16A34A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yagna-siva-sai-kumar-984881201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://arxiv.org/abs/2502.12115"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-SWE--Lancer-b31b1b?style=for-the-badge&logo=arxiv&logoColor=white" /></a>
+  <strong>Building production-grade agent systems end to end:</strong><br/>
+  route, orchestrate, govern, and test with deterministic execution and safety guardrails.
 </p>
 
 <p>
-  <img alt="AstraGraph stars" src="https://img.shields.io/github/stars/yagna-1/astragraph?style=flat-square&label=astragraph%20stars&color=0ea5e9" />
-  <img alt="FluxRoute stars" src="https://img.shields.io/github/stars/yagna-1/fluxroute?style=flat-square&label=fluxroute%20stars&color=22c55e" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/yagna-1?style=flat-square&label=followers&color=1d4ed8" />
-  <a href="https://github.com/yagna-1/fluxroute/actions/workflows/ci.yml"><img alt="FluxRoute CI" src="https://github.com/yagna-1/fluxroute/actions/workflows/ci.yml/badge.svg" /></a>
-  <a href="https://github.com/yagna-1/astragraph/actions/workflows/ci.yaml"><img alt="AstraGraph CI" src="https://github.com/yagna-1/astragraph/actions/workflows/ci.yaml/badge.svg" /></a>
+  <a href="https://github.com/yagna-1/agentstack-reference"><img alt="AgentStack Reference" src="https://img.shields.io/badge/AgentStack-Reference%20Repo-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://yagna-1.vercell.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live-16A34A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:yagnasivasaikumar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yagna-siva-sai-kumar-984881201/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<p>
+  <img alt="AgentStack reference stars" src="https://img.shields.io/github/stars/yagna-1/agentstack-reference?style=flat-square&label=agentstack-reference&color=0ea5e9" />
+  <img alt="NexusGate stars" src="https://img.shields.io/github/stars/yagna-1/nexusgate?style=flat-square&label=nexusgate&color=22c55e" />
+  <img alt="FluxRoute stars" src="https://img.shields.io/github/stars/yagna-1/fluxroute?style=flat-square&label=fluxroute&color=3b82f6" />
+  <img alt="AstraGraph stars" src="https://img.shields.io/github/stars/yagna-1/astragraph?style=flat-square&label=astragraph&color=14b8a6" />
+  <img alt="Recast stars" src="https://img.shields.io/github/stars/yagna-1/recast?style=flat-square&label=recast&color=f59e0b" />
+  <img alt="mcp-test stars" src="https://img.shields.io/github/stars/yagna-1/mcp-test?style=flat-square&label=mcp-test&color=a855f7" />
 </p>
 
 </div>
 
-## Featured Now
+## Executive Summary
 
-| Project | Why it is exciting | Build Signal |
-| --- | --- | --- |
-| **[agentstack-reference](https://github.com/yagna-1/agentstack-reference)** | Glue-only reference stack that composes routing, orchestration, governance, and testing into one runnable loop. | **Combined platform entrypoint** |
-| **[nexusgate](https://github.com/yagna-1/nexusgate)** | MCP/LLM routing gateway with workflow-aware budget controls and provider fallback. | Routing + cost governance layer |
-| **[fluxroute](https://github.com/yagna-1/fluxroute)** | Deterministic AI orchestration runtime in Go with replay, metering, and multi-tenant control plane primitives. | Runtime execution layer |
-| **[AegisEdge](https://github.com/yagna-1/AegisEdge)** *(Private)* | Android edge-AI agent with action safety, consent flow, memory, and local/remote inference control. | **Most recent private repo** |
-| **[astragraph](https://github.com/yagna-1/astragraph)** | Fail-closed policy enforcement + observability for MCP/A2A multi-agent systems. | 24 stars and active Rust platform direction |
-| **[recast](https://github.com/yagna-1/recast)** | Compiler that converts agent/browser traces into static Playwright tests. | Regression test generation layer |
-| **[mcp-test](https://github.com/yagna-1/mcp-test)** | Spec-oriented MCP test toolkit with policy assertion helpers for CI. | MCP contract validation layer |
+I design and ship agent infrastructure that teams can run in production with confidence.
 
-## Proof of Impact
+- deterministic orchestration and replay
+- policy-first fail-closed enforcement
+- workflow-level routing and budget controls
+- audit-to-regression-test generation
+- MCP contract and policy validation for CI
 
-- Contributed to the OpenAI SWE-Lancer benchmark, evaluating LLM performance on 1,400+ real engineering tasks.
-- Built distributed inference pipelines that can execute 1,000+ tasks in parallel on AWS.
-- Improved retrieval quality by ~25% using hybrid search (semantic + BM25) and evaluation-led iteration.
+## AgentStack Platform (Combined Repo First)
 
-## System Vision
+| Priority | Repository | Layer | What it contributes |
+| --- | --- | --- | --- |
+| 1 | **[agentstack-reference](https://github.com/yagna-1/agentstack-reference)** | Platform Glue | Single compose-based reference stack that wires all layers together. |
+| 2 | **[nexusgate](https://github.com/yagna-1/nexusgate)** | Route | MCP/LLM ingress, provider fallback, workflow-aware spend governance. |
+| 3 | **[fluxroute](https://github.com/yagna-1/fluxroute)** | Orchestrate | Deterministic DAG runtime, replay semantics, tenant-aware control-plane primitives. |
+| 4 | **[astragraph](https://github.com/yagna-1/astragraph)** | Govern | Fail-closed policy enforcement and causal audit graph for MCP/A2A actions. |
+| 5 | **[recast](https://github.com/yagna-1/recast)** | Test (Agent) | Compiles production traces/audit logs into static Playwright suites. |
+| 6 | **[mcp-test](https://github.com/yagna-1/mcp-test)** | Test (MCP) | MCP client/test harness with policy assertion helpers for CI gates. |
+
+## Architecture Snapshot
 
 ```mermaid
 flowchart LR
-    Client[App Clients / Teams] --> FR[FluxRoute\nDeterministic Orchestration]
-    FR --> AG[AstraGraph\nPolicy + Causal Audit]
-    AG --> AX[AegisEdge\nOn-Device AI Execution]
-
-    FR --> OBS[OpenTelemetry + Metrics]
-    AG --> GOV[Fail-Closed Guardrails]
-    AX --> UX[Safe Agent UX on Android]
-
-    classDef core fill:#0b1020,color:#dbeafe,stroke:#3b82f6,stroke-width:1.5px;
-    classDef edge fill:#0f172a,color:#bbf7d0,stroke:#22c55e,stroke-width:1.5px;
-    class Client,FR,AG,AX core;
-    class OBS,GOV,UX edge;
+    A[Client / Agent Apps] --> B[NexusGate]
+    B --> C[FluxRoute]
+    C --> D[AstraGraph]
+    D --> E[Recast]
+    D --> F[mcp-test]
+    E --> G[Playwright Regression Suite]
+    F --> H[MCP Contract + Policy CI Checks]
+    G --> I[Ship / Block Decision]
+    H --> I
 ```
 
-## Highlighted Project Cards
+## Current Focus
+
+- hardening the AgentStack reference path for faster onboarding and reproducible demos
+- strengthening the AstraGraph -> Recast regression loop
+- making policy + contract checks first-class in CI with `mcp-test`
+
+## Highlighted Repositories
+
+<div align="center">
+  <a href="https://github.com/yagna-1/agentstack-reference">
+    <img src="https://opengraph.githubassets.com/1/yagna-1/agentstack-reference" alt="agentstack-reference" width="49%" />
+  </a>
+  <a href="https://github.com/yagna-1/nexusgate">
+    <img src="https://opengraph.githubassets.com/1/yagna-1/nexusgate" alt="nexusgate" width="49%" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/yagna-1/fluxroute">
-    <img src="https://opengraph.githubassets.com/1/yagna-1/fluxroute" alt="FluxRoute" width="49%" />
+    <img src="https://opengraph.githubassets.com/1/yagna-1/fluxroute" alt="fluxroute" width="49%" />
   </a>
   <a href="https://github.com/yagna-1/astragraph">
-    <img src="https://opengraph.githubassets.com/1/yagna-1/astragraph" alt="AstraGraph" width="49%" />
+    <img src="https://opengraph.githubassets.com/1/yagna-1/astragraph" alt="astragraph" width="49%" />
   </a>
 </div>
 
 <div align="center">
-  <img alt="AegisEdge Private Build" src="https://img.shields.io/badge/AegisEdge-Private%20Android%20Edge%20AI%20Build-111827?style=for-the-badge&logo=android&logoColor=3DDC84" />
+  <a href="https://github.com/yagna-1/recast">
+    <img src="https://opengraph.githubassets.com/1/yagna-1/recast" alt="recast" width="49%" />
+  </a>
+  <a href="https://github.com/yagna-1/mcp-test">
+    <img src="https://opengraph.githubassets.com/1/yagna-1/mcp-test" alt="mcp-test" width="49%" />
+  </a>
 </div>
 
-<div align="center">
-  <sub>Private build walkthrough available on request.</sub>
-</div>
+## Proof of Engineering Impact
 
-## Most Recent Project Wave
+- Contributed to the OpenAI SWE-Lancer benchmark ecosystem, evaluating LLMs on large-scale real engineering tasks.
+- Built distributed inference workloads executing 1,000+ parallel tasks on AWS.
+- Improved retrieval performance by roughly 25% through hybrid retrieval and evaluation-led iteration.
 
-- **agentstack-reference:** combined glue repo that runs the full platform loop.
-- **NexusGate:** route and budget-control ingress for MCP/LLM traffic.
-- **FluxRoute:** deterministic orchestration runtime for production AI workflows.
-- **AstraGraph:** fail-closed governance and causal audit for MCP/A2A traffic.
-- **Recast:** compile audit/agent traces into deterministic Playwright suites.
-- **mcp-test:** MCP protocol and policy behavior validation for CI gates.
+## Research
 
-## Selected Repos
+- [SWE-Lancer (arXiv)](https://arxiv.org/abs/2502.12115)
 
-**Top 6 (AgentStack):** [agentstack-reference](https://github.com/yagna-1/agentstack-reference) • [nexusgate](https://github.com/yagna-1/nexusgate) • [fluxroute](https://github.com/yagna-1/fluxroute) • [astragraph](https://github.com/yagna-1/astragraph) • [recast](https://github.com/yagna-1/recast) • [mcp-test](https://github.com/yagna-1/mcp-test)
+## Technical Focus
 
-<details>
-<summary><b>More repos</b></summary>
-<br />
-
-[Memory-KV-Cache](https://github.com/yagna-1/Memory-KV-Cache) • [Vectorless-RAG](https://github.com/yagna-1/Vectorless-RAG) • [AgentScopeLocal](https://github.com/yagna-1/AgentScopeLocal) • [SouthBridge-ACP-Client](https://github.com/yagna-1/SouthBridge-ACP-Client) • [ace-devops-troubleshooter](https://github.com/yagna-1/ace-devops-troubleshooter) • [NextTokenApp](https://github.com/yagna-1/NextTokenApp) • [NextToken](https://github.com/yagna-1/NextToken) • [AIWatchLite](https://github.com/yagna-1/AIWatchLite) • [code-explainer](https://github.com/yagna-1/code-explainer) • [gentic-document-extractor](https://github.com/yagna-1/gentic-document-extractor) • [RAG-based-QA](https://github.com/yagna-1/RAG-based-QA) • [multi_source_qa](https://github.com/yagna-1/multi_source_qa)
-
-</details>
-
-## Build Stack
-
-**Core:** Python, Go, Rust, TypeScript, SQL  
-**AI:** PyTorch, TensorFlow, Hugging Face, RAG, LoRA/QLoRA, eval harnesses  
-**Infra:** AWS, Docker, Kubernetes, FastAPI, PostgreSQL, ChromaDB, FAISS
+| Area | Tools |
+| --- | --- |
+| Languages | Python, Go, Rust, TypeScript, SQL |
+| AI/ML | PyTorch, TensorFlow, Hugging Face, RAG, LoRA/QLoRA, eval harnesses |
+| Infra | AWS, Docker, Kubernetes, FastAPI, PostgreSQL, ChromaDB, FAISS |
+| Observability & Runtime | OpenTelemetry, Prometheus, replay traces, policy telemetry |
 
 ## Connect
 
-[Portfolio](https://yagna-1.vercell.app) | [LinkedIn](https://linkedin.com/in/yagna-siva-sai-kumar-984881201/) | [Email](mailto:yagnasivasaikumar@gmail.com)
+- Portfolio: [yagna-1.vercell.app](https://yagna-1.vercell.app)
+- LinkedIn: [yagna-siva-sai-kumar](https://linkedin.com/in/yagna-siva-sai-kumar-984881201/)
+- Email: [yagnasivasaikumar@gmail.com](mailto:yagnasivasaikumar@gmail.com)
